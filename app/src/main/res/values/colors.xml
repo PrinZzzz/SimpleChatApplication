@@ -17,4 +17,5 @@
     <color name="candy_red">#D21404</color> <!-- for dark theme -->
     <color name="crimson_red">#D21404</color>
     <color name="rose_red">#B90E0A</color>
+    <color name="green">#12FF00</color>
 </resources>
