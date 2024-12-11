@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "916949007356",
+    "project_id": "chat-application-eadf4",
+    "storage_bucket": "chat-application-eadf4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916949007356:android:3cb475c1a5f0f2ca6ad079",
+        "android_client_info": {
+          "package_name": "com.mateo.chatapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdpEN_p0_xyaru-9rdzeDqvqqP9rf3Cqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

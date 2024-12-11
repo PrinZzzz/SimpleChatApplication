@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Chat Application</string>
+    <string name="forgot_password"><font color="#5B39C6"><u>FORGOT PASSWORD?</u></font></string>
+</resources>
